@@ -5,15 +5,9 @@
 
 ---
 
-## RecordTheEarth 2 (Android)
-
-Google Play store listing 
-
-### SHORT DESCRIPTION 
-
 > Join researchers and be a citizen scientist. Record the sounds of the Earth.
 
-### FULL DESCRIPTION
+### DESCRIPTION
 
 Earth's sounds tell an amazing story. Each soundscape recording is a snapshot of a unique place and time. Record the Earth is a global citizen science initiative to record all of the sounds around the World. Join the mission and record the sounds around you then upload them to the Global Soundscapes Archive at the Purdue University Center for Global Soundscapes. Create a profile at www.recordtheearth.org where you can listen and explore all the sounds from around the world.	
 
@@ -35,7 +29,12 @@ www.centerforglobalsoundscapes.org
 
 ## Version History 
 
-- __v2.0 (Android)__ [View](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/tag/v.2.0)  /   [Download](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/download/v.2.0/RecordTheEarth-v2.0.apk)  
-  
-- __v2.1 (Android)__ [View](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/tag/v.2.1)  /    [Download](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/download/v2.1/RecordTheEarth-v2.1.apk)
+- __v2.1 (Android)__ [View](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/tag/v2.1.0)  /    [Download](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/download/v2.1.0/RecordTheEarth-v2.1.apk)
 
+- __v2.0.0 (Android)__ [View](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/tag/v2.0.0)  /   [Download](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/download/v2.0.0/RecordTheEarth-v2.0.apk)  
+
+- __v1.0.3 (Android)__ [View](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/tag/v1.0.3)  /   [Download](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/download/v1.0.3/RecordTheEarth-v1.0.3.apk)  
+  
+- __v1.0.2 (Android)__ [View](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/tag/v1.0.2)  /    [Download](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/download/v1.0.2/RecordTheEarth-v1.0.2.apk)
+
+- __v0.9.0 (Android)__ [View](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/tag/v0.9.0)  /    [Download](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/download/v0.9.0/soundscape-v0.9.apk)
