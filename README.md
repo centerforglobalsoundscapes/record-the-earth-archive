@@ -29,7 +29,7 @@ www.centerforglobalsoundscapes.org
 
 ## Version History 
 
-- __v2.1 (Android)__ [View](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/tag/v2.1.0)  /    [Download](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/download/v2.1.0/RecordTheEarth-v2.1.apk)
+- __v2.1.0 (Android)__ [View](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/tag/v2.1.0)  /    [Download](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/download/v2.1.0/RecordTheEarth-v2.1.apk)
 
 - __v2.0.0 (Android)__ [View](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/tag/v2.0.0)  /   [Download](https://github.com/centerforglobalsoundscapes/record-the-earth-archive/releases/download/v2.0.0/RecordTheEarth-v2.0.apk)  
 
