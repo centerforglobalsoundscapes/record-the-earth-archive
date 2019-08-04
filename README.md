@@ -16,7 +16,7 @@ For more information visit:
 
     The Center for Global Soundscapes  
     Purdue University  
-    [www.centerforglobalsoundscapes.org](https://www.centerforglobalsoundscapes.org)	
+    www.centerforglobalsoundscapes.org
 
 ---------
 
