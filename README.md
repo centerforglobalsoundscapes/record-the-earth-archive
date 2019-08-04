@@ -4,6 +4,8 @@
 
 ---
 
+__Record the Earth__
+
 > Join researchers and be a citizen scientist. Record the sounds of the Earth.
 
 Earth's sounds tell an amazing story. Each soundscape recording is a snapshot of a unique place and time. Record the Earth is a global citizen science initiative to record all of the sounds around the World. Join the mission and record the sounds around you then upload them to the Global Soundscapes Archive at the Purdue University Center for Global Soundscapes. Create a profile at www.recordtheearth.org where you can listen and explore all the sounds from around the world.	
